@@ -2,12 +2,12 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://github.com/davidarroyo1234/InstagramUnfollowers)
 
-Makes tutorials easier!
+Makes tutorials easier for me!
 
 ## 🖥️ Desktop Usage
 
 1. Copy the code: 
-    <img src="./assets/copy_code.png" alt="Copy code button" />
+    [InstagramUnfollowers Tool](https://davidarroyo1234.github.io/InstagramUnfollowers/)
 
 3. Go to Instagram website and log in to your account
 
